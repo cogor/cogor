@@ -10,7 +10,7 @@ I believe in making technology accessible to the Russian-speaking developer comm
 
 
 ---
-If you'd like to support my work and the development of the projects I'm involved in, you can donate through [Boosty](https://boosty.to/honey-bunny). 
+💪 If you'd like to support my work and the development of the projects I'm involved in, you can donate through [Boosty](https://boosty.to/honey-bunny). 
 Your contributions will help ensure ongoing support and further project development, as well as inspire me to create new innovative solutions.
 If you have any questions, suggestions, or would like to discuss collaboration, feel free to reach out to me. 
 I'll be glad to share my knowledge and experience with you!
